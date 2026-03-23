@@ -3,7 +3,7 @@ Notebook Flow
 Files Loaded: fact_sales_store_sku_daily.csv, fact_inventory_store_sku_daily.csv, replenishment_inputs_store_sku.csv — loaded from project root (Capstone).
 Setup / Imports: pandas, numpy, matplotlib, LinearRegression from scikit-learn; environment verification prints sys.executable.
 Data Preparation:
-Ensure weekday exists (derived from date if missing).
+Ensure weekday exists (derived from date if missing)
 Ensure promo_flag and holiday_flag exist (default 0 if absent).
 EDA (Demand Understanding):
 Weekly seasonality: fact_sales.groupby("weekday")["units_sold"].mean().
