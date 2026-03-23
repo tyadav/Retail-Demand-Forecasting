@@ -160,7 +160,7 @@ Now here’s where change happened 👇
 
 ---
 
-# 🔁 What Changed in Your Revised Version
+# 🔁 Revised Version Changes
 
 ### 🔹 Change 1 — Environment Fix
 
